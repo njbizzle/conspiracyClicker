@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba4a671b8a4942de91a43a053a6d597, type: 3}
+  m_Name: 7_1_wompWomp
+  m_EditorClassIdentifier: 
+  upgradeName: Womp Womp
+  upgradeCost: 500000
+  conspiracyLevel: {fileID: 0}
+  conspiracyLevelName: ConspiracyLevel
+  upgradeImage: {fileID: 21300000, guid: bffe50024700844389d72aee6b02d084, type: 3}
+  conspiracistData: {fileID: 11400000, guid: 1a92aab9a18d547089a7b10c6d6454a9, type: 2}
+  conspiracistUpgrade: 0
+  conspiracistUpgradeMultiplier: 10000
+  addToAvailable: 0
+  tooltipText: express your true feelings about immigrant kids with down syndrome
+  canPurchase: 1
+  added: 1
+  purchased: 1
+  gameManager: {fileID: 0}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6fabdea47d3b403c9ecfbc078296c05, type: 3}
+  m_Name: 4_HighElon
+  m_EditorClassIdentifier: 
+  conspiracistName: High Elon
+  conspiracistImage: {fileID: 21300000, guid: 00507b66b8f514ad99f2b8b97df81a6d, type: 3}
+  cloutPerGenerate: 500
+  generateSpeed: 8
+  defaultPrice: 5000
+  priceIncreaseMultiplyer: 0.5
+  unlockPrice: 5000
+  conspiracist: {fileID: 0}
+  cloutGenMult: 4
+  speedMult: 1
+  currentPrice: 3284145
+  conspiracistQuantity: 17
+  unlocked: 1
+  restartLoop: 0
+  totalGenerated: 2553000
+  totalSpent: 6563290
